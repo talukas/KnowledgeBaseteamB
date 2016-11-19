@@ -1,73 +1,107 @@
 
-Если у кого то есть желание и время то делюсь видео: 
-https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR
+Allure report recourses
 
-1. Сервис по работе с почтой: https://maildrop.cc/inbox/wsi
-2.  Сервис по работе с почтой: http://www.throwawaymail.com/
-
-https://www.facebook.com/radioqa/posts/1592180921083836:0
-
-Привет, всем. 
-Для своих проектов я использую Firefox 45.02 (https://ftp.mozilla.org/pub/firefox/releases/45.0.2/)
-
-
-Неплохие лекции по JAVA: https://www.youtube.com/playlist?list=PL0sBtgkuuZroTf3wPVDviHGEpwO9vTd8U
-
-вот типа таких
-http://www.aiotestking.com/oracle/what-is-the-result-when-this-program-is-executed-5/
-что к чему можно присвоить - http://www.aiotestking.com/oracle/which-statement-when-inserted-into-line-5-is-valid-change-2/
-или - http://www.aiotestking.com/oracle/which-three-lines-will-compile-and-output-right-on-4/
-
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
-
-
-http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html
-
-https://habrahabr.ru/post/155109/
-http://automated-testing.info/t/podskazhite-primery-ispolzavanie-pattern-page-object/7795
-[10/2/16, 20:35:09] Yurii Chukhrai: https://kreisfahrer.gitbooks.io/selenium-webdriver/content/
-[10/2/16, 20:37:07] Yurii Chukhrai: https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_api_slozhnie_vzaimodeistviya/lokatori_css,_xpath,_jquery.html
-
-https://habrahabr.ru/post/133237/
-
-https://habrahabr.ru/post/133237/
-
-README.md - https://stackedit.io/editor  для красивого редактирования.
-.gitignore - https://git-scm.com/docs/gitignore  
-https://gist.github.com/octocat/9257657
-
-https://vimeo.com/176318866 - pro Jenkins, CI i CD
-
-
-http://perfect-test.com/index.php/ru/technologies-menu-rus/other-technologies-menu-rus/20-not-categorised-technologies-rus
-
-https://github.com/allure-examples/allure-testng-example
-
-[10/13/16, 20:40:18] Ирина Ирина: https://m.youtube.com/watch?v=LpU6875hYOM  Петя, мне это помогло  с Аллюром
-
-https://www.youtube.com/user/lumii1983/playlists
-
-https://www.youtube.com/watch?v=yXS1mXxVE74&index=17&list=LLlu6Q9bW3XvK4W5tu7Agh-Q
-
-Неплохой туториал по Team City на сайте, который Юра прислал 
-https://www.youtube.com/shared?ci=rwOmZc-prMA
-
-
-подскажите кто какими ресурсами пользовался по созданию пом файла для аллюр отчета?
-я пользовался сайтом
 http://allure.qatools.ru/
 https://github.com/allure-framework/allure-core/wiki/TestNG
 https://github.com/allure-framework/allure-core/blob/master/allure-junit-adaptor/pom.xml
 https://github.com/allure-examples/allure-testng-example
 http://perfect-test.com/index.php/ru/technologies-menu-rus/other-technologies-menu-rus/20-not-categorised-technologies-rus
 во всех случаях создается отчет только после команд mvn clean test and mvn site
+https://github.com/allure-examples/allure-testng-example
+https://m.youtube.com/watch?v=LpU6875hYOM
+http://perfect-test.com/index.php/ru/technologies-menu-rus/other-technologies-menu-rus/20-not-categorised-technologies-rus
 
-рошо, я что то не так делаю
-я копирую пример проекта с https://github.com/allure-examples/allure-testng-example
-https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html
+Automation School
 
-в тему как работает action: http://www.guru99.com/keyboard-mouse-events-files-webdriver.html
+https://youtu.be/0YQVIPCIlCA?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR
+https://www.youtube.com/user/lumii1983/playlists
+https://www.youtube.com/watch?v=yXS1mXxVE74&index=17&list=LLlu6Q9bW3XvK4W5tu7Agh-Q
+
+
+Code editor
+
+https://stackedit.io/editor
+
+
+Firefox 45.02
+
+https://ftp.mozilla.org/pub/firefox/releases/45.0.2/
+
+
+Git
+
+https://gist.github.com/octocat/9257657
+https://git-scm.com/docs/gitignore 
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+
+
+Java
+
+https://habrahabr.ru/post/133237/
+https://www.youtube.com/playlist?list=PL0sBtgkuuZroTf3wPVDviHGEpwO9vTd8U
+
+
+Jenkins
+
+https://vimeo.com/176318866
+
+
+Mail service
+
+https://maildrop.cc/inbox/wsi
+http://www.throwawaymail.com/
+
+
+Oracle questions/answers
+
+http://www.aiotestking.com/oracle/what-is-the-result-when-this-program-is-executed-5/
+http://www.aiotestking.com/oracle/which-statement-when-inserted-into-line-5-is-valid-change-2/
+http://www.aiotestking.com/oracle/which-three-lines-will-compile-and-output-right-on-4/
+
+
+
+Page Object Model + Webdriver. 
+
+https://habrahabr.ru/post/155109/
+
+
+
+Radio QA | Facebook
+
+https://www.facebook.com/radioqa/posts/1592180921083836:0
+
+
+Selenium
+
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/
+
+
+Selenium locators
+
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/webdriver_api_slozhnie_vzaimodeistviya/lokatori_css,_xpath,_jquery.html
+
+
+Selenium+Java+Pattern Page Object.
+
+http://automated-testing.info/t/podskazhite-primery-ispolzavanie-pattern-page-object/7795
+http://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html
+
+
+selenium Action
+
+https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html
+https://seleniumhq.github.io/selenium/docs/api/java/org/openqa/selenium/interactions/Actions.html
+http://www.guru99.com/keyboard-mouse-events-files-webdriver.html
+
+
+Stevia is an Open Source QA Automation Testing Framework by Persado
 
 https://github.com/persado/stevia
+
+TeamCity User Guide
+
+https://www.youtube.com/shared?ci=rwOmZc-prMA
+
 
 
